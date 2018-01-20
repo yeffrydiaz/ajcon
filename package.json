@@ -1,0 +1,30 @@
+{
+  "name": "ajcon",
+  "version": "1.0.1",
+  "description": "This function can be use the same way as $.ajax or $.get or fetch or axios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeffrydiaz/ajcon.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "query",
+    "axios",
+    "ajax",
+    "fetch",
+    "get",
+    "post",
+    "put",
+    "delete"
+  ],
+  "author": "Yeffry Diaz <yeffrydiaz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeffrydiaz/ajcon/issues"
+  },
+  "homepage": "https://github.com/yeffrydiaz/ajcon#readme"
+}
